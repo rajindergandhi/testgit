@@ -6,7 +6,8 @@
 PROCESS_NAME="2018 Annual ESTAT/ESP Data Purge"
 DISABLE_IR="F" # T - True, F - False - Used to force exit the whole process
 
-DO_FTP=$3  
+DO_FTP=$3  
+# T-True or F -False 
 
 ###################################################################
 # Purpose:  Run the DWH exports for current year
