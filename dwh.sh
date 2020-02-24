@@ -1,3 +1,4 @@
+#This script for warehouse
 #!/bin/ksh
 . $HOME/scriptvar
 . $HOME/esp/scripts/export/dwh/dwh_exports.maillist
